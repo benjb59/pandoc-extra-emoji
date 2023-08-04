@@ -1,2 +1,2 @@
 FROM pandoc/extra
-RUN tumblr install emoji
+RUN tlmgr install emoji
