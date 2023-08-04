@@ -1,2 +1,2 @@
-FROM pandoc-extra
+FROM pandoc/extra
 RUN tumblr install emoji
