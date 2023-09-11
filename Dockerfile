@@ -1,2 +1,2 @@
 FROM pandoc/extra
-RUN tlmgr install emoji
+RUN pip install pandoc-include && tlmgr install emoji
