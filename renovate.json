@@ -1,0 +1,9 @@
+{
+    "extends": [
+      "config:base"
+    ],
+    "prCreation": "immediate",
+    "platform": "github",
+    "automerge": true,
+    "automergeType": "pr"
+}
