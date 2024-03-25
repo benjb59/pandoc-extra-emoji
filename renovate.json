@@ -1,0 +1,14 @@
+{
+  "extends": ["config:base"],
+  "prCreation": "immediate",
+  "automerge": true,
+  "automergeType": "pr",
+  "packageRules": [
+    {
+      "matchDatasources": [
+        "docker"
+      ],
+      "pinDigests": true
+    }
+  ]
+}
