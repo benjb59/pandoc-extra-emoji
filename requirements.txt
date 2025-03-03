@@ -1,1 +1,1 @@
-pandoc-include ==1.4.2
+pandoc-include ==1.4.3
