@@ -1,4 +1,4 @@
-FROM pandoc/extra@sha256:cc98998c5ab9a652b5c760d69c2fbf3395e063c6d0519890cd46dc3efbf9031a
+FROM pandoc/extra@sha256:624d42423ac20f4fba94be0261d86a17f0be69a8a40fade9bccc433586e4d86b
 
 COPY requirements.txt ./
 
